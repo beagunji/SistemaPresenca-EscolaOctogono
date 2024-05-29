@@ -12,9 +12,10 @@ function mudarTamanhoFonte(type) {
   });
 }
 
-// Alterar fonte
- let currentFont = 'Poppins';
-    let openDyslexicStyle = null;
+
+ // Alterar fonte
+let currentFont = 'Poppins';
+let openDyslexicStyle = null;
 
     function mudarFonte() {
       if (currentFont === 'Poppins') {
